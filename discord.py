@@ -1,5 +1,4 @@
 
-@@ -0,0 +1,57 @@
 import discord
 from discord.ext import commands
 from discord.ext.commands import Bot
